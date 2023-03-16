@@ -1,0 +1,10 @@
+[
+  {
+    "package": "fda",
+    "oncran": true
+  },
+  {
+    "package": "SpatialfdaR",
+    "oncran": true
+  }
+]
