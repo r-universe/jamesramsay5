@@ -13,3 +13,8 @@
 	url = https://github.com/jamesramsay5/spatialfdar
 	shallow = true
 	registered = true
+[submodule "TestGardener"]
+	path = TestGardener
+	url = https://github.com/cran/TestGardener
+	shallow = true
+	registered = true
