@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "SpatialfdaR"]
-	path = SpatialfdaR
-	url = https://github.com/jamesramsay5/spatialfdar
 [submodule "TestGardener"]
 	path = TestGardener
 	url = https://github.com/jamesramsay5/testgardener
